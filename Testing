@@ -1,0 +1,16 @@
+--//new
+--//new
+local x = 3
+
+if x == 3 then
+   print("WORKING")
+end
+
+
+
+
+--//new
+Local PartTranspirancy = 0.30 + 0.30
+If PartTranspiranc == 0.6 then
+   print("Transpirancy")
+end
